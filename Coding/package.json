@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@google/generative-ai": "^0.17.0",
+        
+        "dotenv": "^16.4.5",
+        "googleapis": "^142.0.0",
+        "unzipper": "^0.12.3"
+    }
+}
